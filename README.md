@@ -1,6 +1,6 @@
 # food_delivery_app
 
-A new Flutter project.
+Food Delivery App - UI
 
 ## Getting Started
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img src="https://user-images.githubusercontent.com/40820956/98144974-b3e91480-1edb-11eb-8784-bd8fa0ffc9fc.jpg" width="240" height="480">
+
+<img src="https://user-images.githubusercontent.com/40820956/98145016-b8adc880-1edb-11eb-9ecf-c0fa5d604a5e.jpg" width="240" height="480">
